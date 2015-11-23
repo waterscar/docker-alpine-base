@@ -14,4 +14,3 @@ This image includes some quirks to make glibc work side by side with musl libc (
  - vim
  - unzip
 
-Total size of this image is only around: 37MB
