@@ -14,3 +14,4 @@ This image includes some quirks to make glibc work side by side with musl libc (
  - vim
  - unzip
 
+[![](https://badge.imagelayers.io/edwxie/alpine-base:latest.svg)](https://imagelayers.io/?images=edwxie/alpine-base:latest 'Get your own badge on imagelayers.io')
